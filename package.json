@@ -1,0 +1,8 @@
+{
+  "name": "pear-rich-text",
+  "version": "0.0.1",
+  "description": "A simple rich text editor web component",
+  "main": "index.js",
+  "author": "DeviousPear",
+  "license": "MIT"
+}
