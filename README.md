@@ -14,7 +14,7 @@ pear-rich-text is a web component. Once installed in a page, you can simply embe
 ```
 If you want to add a toolbar, do it something like this:
 ```html
-<pear-rich-text onload="const editor = this"></pear-rich-text>
+<text-editor onload="const editor = this"></text-editor>
 <div id="toolbar">
     <button onclick="editor.format('b')">Bold</button>
     <button onclick="editor.format('i')">Italics</button>
