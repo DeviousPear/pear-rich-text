@@ -10,7 +10,7 @@ If you want to download it directly, download `index.js` and rename it, and incl
 ## Usage
 pear-rich-text is a web component. Once installed in a page, you can simply embed it like this:
 ```html
-<pear-rich-text></pear-rich-text>
+<text-editor></text-editor>
 ```
 If you want to add a toolbar, do it something like this:
 ```html
